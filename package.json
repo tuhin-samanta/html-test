@@ -19,10 +19,5 @@
   "homepage": "https://github.com/tuhin-samanta/html-test#readme",
   "devDependencies": {
     "husky": "^8.0.0"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run testcommit"
-    }
   }
 }
